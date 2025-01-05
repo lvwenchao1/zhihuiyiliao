@@ -1,0 +1,46 @@
+2025-01-05 12:33:46,159 - Epoch 1:
+Train Loss: 0.1780, Train Accuracy: 0.9352, Train ROC-AUC: 0.9761, Train F1: 0.9562, Train Precision: 0.9592, Train Recall: 0.9533
+Val Loss: 0.1068, Val Accuracy: 0.9618, Val ROC-AUC: 0.9911, Val F1: 0.9741, Val Precision: 0.9817, Val Recall: 0.9665
+
+2025-01-05 12:33:47,353 - Epoch 1: Best model saved!
+2025-01-05 12:35:31,019 - Epoch 2:
+Train Loss: 0.1011, Train Accuracy: 0.9618, Train ROC-AUC: 0.9916, Train F1: 0.9743, Train Precision: 0.9724, Train Recall: 0.9762
+Val Loss: 0.2132, Val Accuracy: 0.9436, Val ROC-AUC: 0.9942, Val F1: 0.9607, Val Precision: 0.9945, Val Recall: 0.9292
+
+2025-01-05 12:37:09,121 - Epoch 3:
+Train Loss: 0.0969, Train Accuracy: 0.9654, Train ROC-AUC: 0.9926, Train F1: 0.9767, Train Precision: 0.9759, Train Recall: 0.9775
+Val Loss: 0.0884, Val Accuracy: 0.9675, Val ROC-AUC: 0.9939, Val F1: 0.9782, Val Precision: 0.9757, Val Recall: 0.9807
+
+2025-01-05 12:37:10,663 - Epoch 3: Best model saved!
+2025-01-05 12:39:05,720 - Epoch 4:
+Train Loss: 0.0783, Train Accuracy: 0.9720, Train ROC-AUC: 0.9945, Train F1: 0.9812, Train Precision: 0.9816, Train Recall: 0.9807
+Val Loss: 0.0898, Val Accuracy: 0.9694, Val ROC-AUC: 0.9962, Val F1: 0.9792, Val Precision: 0.9908, Val Recall: 0.9678
+
+2025-01-05 12:39:06,969 - Epoch 4: Best model saved!
+2025-01-05 12:41:06,186 - Epoch 5:
+Train Loss: 0.0657, Train Accuracy: 0.9768, Train ROC-AUC: 0.9965, Train F1: 0.9844, Train Precision: 0.9845, Train Recall: 0.9842
+Val Loss: 0.0641, Val Accuracy: 0.9761, Val ROC-AUC: 0.9972, Val F1: 0.9840, Val Precision: 0.9772, Val Recall: 0.9910
+
+2025-01-05 12:41:07,387 - Epoch 5: Best model saved!
+2025-01-05 12:43:10,618 - Epoch 6:
+Train Loss: 0.0669, Train Accuracy: 0.9754, Train ROC-AUC: 0.9962, Train F1: 0.9834, Train Precision: 0.9823, Train Recall: 0.9845
+Val Loss: 0.0963, Val Accuracy: 0.9685, Val ROC-AUC: 0.9958, Val F1: 0.9785, Val Precision: 0.9895, Val Recall: 0.9678
+
+2025-01-05 12:45:14,453 - Epoch 7:
+Train Loss: 0.0595, Train Accuracy: 0.9751, Train ROC-AUC: 0.9970, Train F1: 0.9833, Train Precision: 0.9826, Train Recall: 0.9839
+Val Loss: 0.2771, Val Accuracy: 0.9351, Val ROC-AUC: 0.9933, Val F1: 0.9544, Val Precision: 0.9958, Val Recall: 0.9163
+
+2025-01-05 12:47:03,636 - Epoch 8:
+Train Loss: 0.0533, Train Accuracy: 0.9775, Train ROC-AUC: 0.9977, Train F1: 0.9849, Train Precision: 0.9852, Train Recall: 0.9845
+Val Loss: 0.0894, Val Accuracy: 0.9733, Val ROC-AUC: 0.9966, Val F1: 0.9822, Val Precision: 0.9687, Val Recall: 0.9961
+
+2025-01-05 12:48:34,572 - Epoch 9:
+Train Loss: 0.0620, Train Accuracy: 0.9768, Train ROC-AUC: 0.9967, Train F1: 0.9844, Train Precision: 0.9852, Train Recall: 0.9836
+Val Loss: 0.1799, Val Accuracy: 0.9446, Val ROC-AUC: 0.9929, Val F1: 0.9615, Val Precision: 0.9918, Val Recall: 0.9331
+
+2025-01-05 12:50:04,537 - Epoch 10:
+Train Loss: 0.0476, Train Accuracy: 0.9821, Train ROC-AUC: 0.9982, Train F1: 0.9879, Train Precision: 0.9884, Train Recall: 0.9874
+Val Loss: 0.1509, Val Accuracy: 0.9456, Val ROC-AUC: 0.9939, Val F1: 0.9621, Val Precision: 0.9945, Val Recall: 0.9318
+2025-01-05 13:21:29,884 - Test Results - Loss: 0.7852, Accuracy: 0.7804, ROC-AUC: 0.9573, F1: 0.8503, Precision: 0.7410, Recall: 0.9974
+2025-01-05 13:24:08,179 - Test Results - Loss: 0.7852, Accuracy: 0.7804, ROC-AUC: 0.9573, F1: 0.8503, Precision: 0.7410, Recall: 0.9974
+2025-01-05 13:31:57,052 - Test Results - Loss: 0.7852, Accuracy: 0.7804, ROC-AUC: 0.9573, F1: 0.8503, Precision: 0.7410, Recall: 0.9974
